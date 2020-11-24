@@ -37,7 +37,7 @@ def iterate_file_path_df():
     """
     df = pd.read_excel(input_data_set)
     col_list = [file_path, log_number, sector, syllabus_no]
-    # filter out all column bar required ones
+    # filter out all columns bar required ones
     df = df[col_list]
     main(df)
 
