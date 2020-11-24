@@ -1,2 +1,2 @@
 # PDF_spell_checker
-Script to spell check PDF files using MS word.
+Script to spellcheck PDF files using MS word.
