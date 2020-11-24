@@ -3,6 +3,7 @@ Script to spellcheck PDF files using MS word.
 
 ### Requirements:
 
+Microsoft Word
 
 ##### This script needs Python 3+
 
