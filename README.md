@@ -1,5 +1,5 @@
 # PDF_spell_checker
-Script to spellcheck PDF files using MS word.
+Script to spellcheck PDF exam paper files using MS word.
 
 ### Requirements:
 
