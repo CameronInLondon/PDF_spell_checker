@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# TODO - refactor code
+
 import glob
 import fitz                   # this is PyMuPDF
 from docx import Document     # python.docx library
